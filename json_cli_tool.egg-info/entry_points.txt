@@ -1,2 +1,0 @@
-[console_scripts]
-json-cli = json_validator_cli.cli:main
