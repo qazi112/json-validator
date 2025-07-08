@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: json-cli-tool
-Version: 1.0.1
+Version: 1.0.2.post0+g91727ec.d20250708
 Summary: A CLI tool to beautify, validate, and minify JSON data.
 Home-page: https://github.com/qazi112/json-validator
 Author: Qazi Arsalan Shah
