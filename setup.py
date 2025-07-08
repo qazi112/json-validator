@@ -19,7 +19,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'json-cli=json_cli.cli:main',
+            'json-cli=json_validator_cli.cli:main',
         ],
     },
     classifiers=[
